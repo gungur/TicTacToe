@@ -49,7 +49,6 @@ Enter your placement (1-9)
  |X| 
 -+-+-
  | | 
- | | 
 -+-+-
 O| | 
 -+-+-
