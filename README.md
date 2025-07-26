@@ -43,7 +43,7 @@ The program consists of:
 ## Example Output
 ```
 Enter your placement (1-9)
-5
+2
  |X| 
 -+-+-
  | | 
