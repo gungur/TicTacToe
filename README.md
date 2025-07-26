@@ -44,15 +44,11 @@ The program consists of:
 ```
 Enter your placement (1-9)
 5
- | | 
--+-+-
  |X| 
 -+-+-
  | | 
 -+-+-
 O| | 
--+-+-
- | | 
 ```
 
 ## Limitations
